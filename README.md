@@ -7,7 +7,8 @@ Flutter 3.0.4
 
 
 ## Snapsots
-<img src="Screenshots/Business_screen.png" height="300em" > <img src="Screenshots/Science_Screen.png" height="300em" > <img src="Screenshots/Sports_screen.png" height="300em" > <img src="Screenshots/Search_screen.png" height="300em" ><img src="Screenshots/Dark_theme.png" height="300em" >
+<img src="Screenshots/Business_screen.png" height="300em" >
+<img src="Screenshots/Science_screen.png" height="300em" > <img src="Screenshots/Sports_screen.png" height="300em" > <img src="Screenshots/Search_screen.png" height="300em" ><img src="Screenshots/Dark_theme.png" height="300em" >
 
 
 ## Preview
