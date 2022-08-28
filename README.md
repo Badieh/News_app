@@ -1,16 +1,34 @@
-# news_app
+# News_app
 
-A News applicayion
+A news app with 3 main sections ( Business / Science / Sports )
 
-## Getting Started
+## Flutter Version
+Flutter 3.0.4 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Snapsots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Preview
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Application Features
+* Bloc State Managment.
+* Receiving Data from Api using Dio Package.
+* Shared preferences.
+* Dark Theme.
+
+  
+## plugins used
+- [cupertino_icons](https://pub.dev/packages/cupertino_icons): ^1.0.2
+- [sqflite](https://pub.dev/packages/sqflite): ^2.0.3
+- [intl](https://pub.dev/packages/intl) : ^0.17.0 # for date_format
+- [conditional_builder_null_safety](https://pub.dev/packages/conditional_builder_null_safety): ^0.0.6
+- [bloc](https://pub.dev/packages/bloc): ^^8.1.0
+- [flutter_bloc](https://pub.dev/packages/flutter_bloc): ^8.0.1
+- [dio](https://pub.dev/packages/dio): ^4.0.6
+- [shared_preferences](https://pub.dev/packages/shared_preferences): ^2.0.15
+- [webview_flutter](https://pub.dev/packages/webview_flutter): ^3.0.4
+- [animated_text_kit](https://pub.dev/packages/animated_text_kit): ^4.2.2
+---
+## Note about the source code
+
+This app was created while learning Flutter , Suggestions and Improvements are most Welcomed! :)
