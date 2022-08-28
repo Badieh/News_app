@@ -7,7 +7,7 @@ Flutter 3.0.4
 
 
 ## Snapsots
-![Business_screen](https://user-images.githubusercontent.com/54133250/187096001-55dec556-c261-4e12-bde9-199cb5038bca.png)
+![Business_screen](https://user-images.githubusercontent.com/54133250/187096001-55dec556-c261-4e12-bde9-199cb5038bca.png height="300em)
 
 ## Preview
 
